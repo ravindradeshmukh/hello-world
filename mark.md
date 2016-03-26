@@ -1,3 +1,1 @@
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+http://www.github.com/
