@@ -1006,8 +1006,9 @@ Symbols
 :small_red_triangle:
 :small_red_triangle_down:
 :shipit:
-Campfire also supports a few sounds
 
+
+/play secret
 ► /play secret
 ► /play trombone
 ► /play crickets
